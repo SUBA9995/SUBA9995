@@ -147,11 +147,12 @@
 ---
 
 
+
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SUBA9995&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBA9995&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUBA9995&theme=tokyonight" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUBA9995&theme=tokyonight" alt="Repository Languages"/>
 </p>
 
 <p align="center">
@@ -163,7 +164,7 @@
 ### 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUBA9995&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUBA9995&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 
