@@ -156,17 +156,18 @@
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=SUBA9995&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUBA9995&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+
 ---
+
 
 ### 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUBA9995&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/00C7B7/SUBA9995" alt="Subasri's GitHub Contribution Graph" width="100%"/>
 </p>
-
 
 ---
 
