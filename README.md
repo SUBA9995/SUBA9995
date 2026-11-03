@@ -154,12 +154,9 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUBA9995&theme=tokyonight" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUBA9995&theme=tokyonight" alt="Repository Languages"/>
 </p>
-
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUBA9995&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUBA9995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 ---
 
 
