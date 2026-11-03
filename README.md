@@ -146,15 +146,16 @@
 
 ---
 
+
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SUBA9995&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBA9995&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SUBA9995&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBA9995&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUBA9995&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="90%" src="https://streak-stats.demolab.com/?user=SUBA9995&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -164,6 +165,7 @@
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUBA9995&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
+
 
 ---
 
